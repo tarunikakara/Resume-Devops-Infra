@@ -34,7 +34,7 @@ Short, confident, and real‑world focused.
 - **Azure DevOps** – CI/CD pipelines and repo management.  
 - **Functions** – Serverless compute for event-driven tasks.  
 - **Monitor** – Metrics, logs, and alerts for Azure workloads.  
-- **Azure AD** – Identity and RBAC for Azure resources.
+- **Azure AD** – Identity and RBAC for Azure resources.... (azure active directory)
 
 ### **OpenStack**
 - Private cloud platform used to build on‑premise cloud environments similar to AWS.
